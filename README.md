@@ -14,9 +14,9 @@
 
 > pip install -r requirements.txt
 
-5. Declare Hello_world.py file as flask app.
+5. Declare hello.py file as flask app.
 
-> set FLASK_APP=Hello_world.py
+> set FLASK_APP=hello.py
 
 6. Run the Flask app
 
