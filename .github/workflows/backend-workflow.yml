@@ -31,4 +31,4 @@ jobs:
       - name: run pylint
         run: |
           pip install -r requirements.txt
-          paylint hello.py
+          pylint hello.py
