@@ -1,3 +1,4 @@
+'''FlaskApp'''
 from flask import Flask, request, render_template, escape
 
 app = Flask(__name__)
