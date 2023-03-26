@@ -21,3 +21,6 @@
 6. Run the Flask app
 
 > flask run
+
+7. Ryn docker
+> docker run --publish 8000:5000 -e FLASK_APP=hello.py project-backend
